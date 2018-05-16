@@ -1,3 +1,7 @@
 body {
     position: absolute;
 }
+
+ html {
+     color: #fff;
+ }
